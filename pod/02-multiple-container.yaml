@@ -4,8 +4,8 @@ metadata:
  name: multiple
 spec:
  containers:
- - name: nginx
-   image: nginx
- - name: almalinux
-   image: sidecar
+ - image: nginx
+   name: nginx
+ - image: almalinux
+   name: sidecar
    command: ["sleep","200"]
