@@ -8,4 +8,4 @@ spec:
    imagepullpolicy: always
    name: nginx
    ports:
-    - containerPorts: 80
+    - containerPort: 80
