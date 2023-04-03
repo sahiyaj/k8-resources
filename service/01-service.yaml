@@ -34,4 +34,4 @@ spec:
  containers:
   - image: almalinux
     name: almalinux
-    command: [["sleep","1000"]]
+    command: ["sleep","1000"]
