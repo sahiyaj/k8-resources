@@ -20,6 +20,6 @@ spec:
  selector: 
   name: nginx
 ports:
-- protocol: TCp
+- protocol: TCP
   port: 80
   targetport: 80  
