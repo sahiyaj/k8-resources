@@ -17,7 +17,7 @@
 #       configMapKeyRef:
 #        name: course-config
 #        key: duration           
-
+---
 apiVersion: v1
 kind: Pod
 metadata: 
