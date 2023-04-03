@@ -19,7 +19,7 @@ metadata:
 spec:
  selector: 
   name: nginx
-ports:
+ ports:
  - protocol: TCP
    port: 80
    targetPort: 80  
