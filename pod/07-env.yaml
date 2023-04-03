@@ -10,4 +10,7 @@ spec:
    - name: course
      value: docker amd k8
    - name: learner
-     value: sahiya   
+     value: sahiya
+   - name: duration
+     value: 25hr
+   - name:         
