@@ -4,5 +4,5 @@ metadata:
  name: course-config
 data:
  course: docket and k8
- duration: 25hr
+ duration: 40hr
  classes: monday to friday 
