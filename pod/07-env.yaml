@@ -12,5 +12,4 @@ spec:
    - name: learner
      value: sahiya
    - name: duration
-     value: 25hr
-   - name:         
+     value: 25hr       
